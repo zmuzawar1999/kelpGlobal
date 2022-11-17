@@ -2,7 +2,7 @@
 Banking Application
 
 ## Setup
-* Run the program with `python3 bank.py`
+* Run the program with `python.exe Bank.py`
 
 ## Inputs
 * Create Account with `CREATE <CODE> <NAME>`
