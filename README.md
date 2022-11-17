@@ -9,3 +9,6 @@ Banking Application
 * Deposit Amount with `DEPOSIT <CODE> <AMOUNT>`
 * Withdraw Cash with `WITHDRAW <CODE> <AMOUNT>`
 * Check Balance with `BALANCE <CODE>`
+
+## Output
+![output](images/output.jpeg)
